@@ -35,11 +35,11 @@ Canon printers are well known for their advanced features in budget-friendly pri
 
 **Here is the simple procedure to setup canon printer using usb cable:**
 
-1. Go to the **[ij.start.canon](https://httpcan0nij.github.io/)** site
+1. Go to the **[ij.start.canon](https://httpcan0nij.github.io/)** site.
 2. Choose setup network connection via USB. 
 3. Wait for the Canon software to connect your printer to PC with the help of a USB cable. 
 4. Hit Next and get the driver for your printer and check whether you want to connect the printer to a particular network. 
 5. Then tap YES and hit the Complete button and jump to Add printer option. 
-6. Tap Add and get a driver from ij.start.canon site. 
+6. Tap Add and get a driver from **ij.start.canon** site. 
 7. Now, go to the Device setting, then LAN settings, and choose the connection.
 8. Install Canon drivers, inkjet cartridges, and check the connections for your device.
